@@ -1,3 +1,3 @@
-# Auto-Scrolling-by-Hand-Movement-using-CNN
+# Auto-Scrolling-using-Hand-Gestures-using-CNN
 
 Documentation coming soon....
